@@ -38,7 +38,7 @@ public class D_HashMap_JavaCollections {
 		// In HashSet   ===> No such method/something equivalent to it. Also  .iterator() is the alternative to iterating using for-loop.
 		// In HashMap   ===> .get(Object key): String                   Also  .iterator() is the alternative to iterating using for-loop.
 		
-		
+
 		// For key of integer value of "1", display its stored value
 		System.out.println(hashMap.get(1));
 		

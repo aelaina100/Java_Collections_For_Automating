@@ -40,8 +40,8 @@ Only start with Java Collections after you've reviewed the following repositorie
 	
 		Implemented by the following classes:
 		    -HashMap
-		    -TreeMap
 		    -LinkedHashMap
+		    -TreeMap
 		    
  As a Java learner, you need to know Java collections to realize how effective & helpful they are !
 		
