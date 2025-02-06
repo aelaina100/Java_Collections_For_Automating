@@ -63,7 +63,7 @@ public class C_HashSet_Iterator_JavaCollections {
 		
 		Iterator<String> itt= hashSet.iterator(); // is there a better way ??
 
-		int counter = 0;
+		int counter = 0;     
 		while(itt.hasNext()) 
 		{
 			 String element= itt.next();

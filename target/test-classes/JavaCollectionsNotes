@@ -21,7 +21,7 @@ Only start with Java Collections after you've reviewed the following repositorie
 	======================================================================================================================
 	Java Collections contain:
 	
-	1- List Interface. [Elements are added in order. Elements could be duplicates] // the ONLY interface allowing for duplicates.
+	1- List Interface. [Elements are added in order. Elements could be duplicates] // The ONLY interface allowing for duplicates.
 	 
 		Implemented by the following classes:
 			- ArrayList
@@ -29,7 +29,7 @@ Only start with Java Collections after you've reviewed the following repositorie
 			- Vector
 			
 	
-	2- Set Interface. [The order, in which elements are added, isn't guarenteed. Can NOT contain duplicate elements]
+	2- Set Interface. [The order, in which elements are added, isn't guaranteed. Can NOT contain duplicate elements]
 	
 		Implemented by the following classes:
 		    -HashSet
@@ -40,8 +40,8 @@ Only start with Java Collections after you've reviewed the following repositorie
 	
 		Implemented by the following classes:
 		    -HashMap
-		    -TreeMap
 		    -LinkedHashMap
+		    -TreeMap
 		    
  As a Java learner, you need to know Java collections to realize how effective & helpful they are !
 		

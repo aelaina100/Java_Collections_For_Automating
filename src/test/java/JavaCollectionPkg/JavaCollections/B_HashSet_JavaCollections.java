@@ -33,10 +33,10 @@ public class B_HashSet_JavaCollections {
 		// Now, One can't add an element TO A SPECIFIC INDEX (Since, again, order of elements is not guaranteed in HashSet class).
 			// So   .add(0,"pre-name");  only applies to an ArrayList class.
 		
-		//In HashSet class, there are no methods equivalent to .get(i) or .indexOf() since order of elements is NOT guarenteed when 
+		//In HashSet class, there are no methods equivalent to .get(i) or .indexOf() since order of elements is NOT guaranteed when 
 		// populating with data
 		
-		//Removing an element can ONLY be done via specifying the string directly [Never by index as order of elements is NOT guarenteed
+		//Removing an element can ONLY be done via specifying the string directly [Never by index as order of elements is NOT guaranteed
 		hashSet.remove("road");
 		System.out.println(hashSet);
 
